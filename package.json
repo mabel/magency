@@ -1,0 +1,26 @@
+{
+  "name": "magency",
+  "version": "0.0.0",
+  "description": "Magency is another (after Nohm) object relational mapper (ORM) written for node.js and redis :) .",
+  "homepage": "http://mabel.github.io/magency",
+  "author": {
+    "name": "Michael Belyakov",
+    "email": "pochta@yababay.ru",
+    "url": "http://yababay.ru"
+  },
+  "repository": "mabel/magency",
+  "license": "MIT",
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "magency",
+    "Node js",
+    "Redis",
+    "model."
+  ],
+  "dependencies": {
+    "redis": "0.12.x",
+    "underscore": "1.7.x"
+  }
+}
